@@ -69,13 +69,16 @@ console.log(`side3 = ${side3}`);
 	Bonus: What would the pseudocode look like if you also had to find the smallest number?
 */
 
-// List of 20 numbers
-// Go through list from beginning to end
-// Keep track of the current highest number
-// If next number > current highest number, store it as
-// the new current highest number
-// Keep moving through list until no more numbers
-// The largest number is the current highest number
+console.log(
+`PSEUDOCODE
+List of 20 numbers
+Go through list from beginning to end
+Keep track of the current highest number
+If next number > current highest number, store it as
+the new current highest number
+Keep moving through list until no more numbers
+The largest number is the current highest number`
+)
 
 /* Bonus
 Take a look at the numbers array below. Use the pseudo code you wrote above to find the largest number and log it to the console in the following format: `"The highest number is #"`.
